@@ -1,0 +1,9 @@
+# Use this workspace to collaborate
+workspace:
+  id: e035c120-5120-4a29-8765-a9fa63c49f72
+
+localResources:
+  specs:
+    - ../WorshopGraphQL/target/classes/schema.graphql
+    - ../WorshopGraphQL/src/main/resources/schema.graphql
+    - ../WorshopGraphQL/target/WorkshopGraphQL-1.0-SNAPSHOT/WEB-INF/classes/schema.graphql
